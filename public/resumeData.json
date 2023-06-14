@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"David Cyberlark",
+    "description":"Passionate about learning technology and sharing knowledge",
+    "image":"profile.jpg",
+    "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "Dave@cyberlark.com.au",
+    "phone": "(04) 1234 5678",
+    "github":"https://github.com/CyberlarkCode",
+    "project":"https://github.com/CyberlarkCode",
+    "address":{
+      "line1":"Address: 13 Main St",
+      "line2":"City: Brisbane",
+      "line3":"Country: Australia"
+    },
+    "youtube":{
+      "english": {
+        "name": "David on Cloud",
+        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
+      },
+      "chinese": {
+        "name": "澳洲程序员大卫",
+        "url":"https://www.youtube.com/@aus-david"
+      }
+    },
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/daiwei920",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CyberlarkCode",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"toutiao",
+        "url":"https://www.ixigua.com/home/1521358670931997/",
+        "className":"fa fa-weibo"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"University of Wollongong",
+        "degree":"Master of Computer Science with distinction",
+        "graduated":"2007 - 2009",
+        "description":""
+      },
+      {
+        "school":"AWS certification",
+        "degree":"AWS Certified Solutions Architect - Professional",
+        "graduated":"Dec 2021",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Cyberlark Studio",
+        "title":"Founder",
+        "years":"Augest 2005 - Present",
+        "description":"Our website was founded in August 2005, originally named D&M Studio. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (Infrastructure, API, Database)",
+        "level":"95%"
+      },
+      {
+        "name":"Frontend Development (React, Angular)",
+        "level":"85%"
+      },
+      {
+        "name":"Embeded Software development (C/C++)",
+        "level":"80%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"75%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course",
+        "description": "如何在澳洲找IT工作",
+        "category": "Course",
+        "image":"00.png",
+        "url":"https://course.cyberlark.com.au/courses/it"
+      },
+      {
+        "title":"Project",
+        "description": "Investment Property Calculator",
+        "category": "Project",
+        "image":"04.png",
+        "url":"https://property.cyberlark.com.au/"
+      },
+      {
+        "title":"Video",
+        "description": "How to use Investment Property Calculator",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
+      },
+      {
+        "title":"Video",
+        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
+        "category":"Video",
+        "image":"02.png",
+        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
+      },
+      {
+        "title":"Video",
+        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
+        "category": "Video",
+        "image":"03.png",
+        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
+      },
+      {
+        "title":"Video",
+        "description": "如何使用澳洲房产投资计算器",
+        "category": "Video",
+        "image":"01-chinese.png",
+        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
+      }
+    ]
+  }
+}
