@@ -7,7 +7,7 @@
 
 ### 2. Run the project
 ```shell
-npm i --save --legacy-peer-deps
+npm install
 npm start
 ```
 
