@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Fade from "react-reveal";
+import Fade from "react-awesome-reveal";
 
 class Footer extends Component {
   render() {
@@ -22,7 +22,7 @@ class Footer extends Component {
             <div className="twelve columns">
               <ul className="social-links">{networks}</ul>
               <ul className="copyright">
-                <li>&copy; Copyright 2022 Cyberlark.com.au</li>
+                <li>&copy; Copyright 2022-2023 Cyberlark.com.au</li>
               </ul>
             </div>
           </Fade>
