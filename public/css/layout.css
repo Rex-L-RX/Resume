@@ -260,7 +260,13 @@ ul#nav li.current a { color: #fe6928; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work {
+.education {
+   margin-top: 36px;
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+}
+
+.work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
@@ -284,7 +290,9 @@ ul#nav li.current a { color: #fe6928; }
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
-
+.skill{
+   border-bottom: 1px solid #E8E8E8;
+}
 .bars {
 	width: 95%;
 	float: left;
