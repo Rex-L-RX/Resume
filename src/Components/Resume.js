@@ -27,7 +27,15 @@ class Resume extends Component {
         </div>
       );
     });
-    
+    // const work_description = this.props.data.work.description.map(function (work){
+    //   return(
+    //     <div key={index}>
+    //       <ul >
+    //         <li ><p>{work_description}</p></li>
+    //       </ul>
+    //     </div>
+    //   )
+    // });
     const work = this.props.data.work.map(function (work) {
       return (
         <div key={work.company}>
@@ -36,7 +44,18 @@ class Resume extends Component {
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p>{work.description}</p>
+          {
+            work.description.map(function (work_description, index){
+              return (
+              <ul key={index}>
+                <li>{work_description}</li>
+              </ul>
+              )
+          })
+            
+          }
+            
+          
         </div>
       );
     });

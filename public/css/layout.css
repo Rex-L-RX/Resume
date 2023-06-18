@@ -252,6 +252,10 @@ ul#nav li.current a { color: #fe6928; }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
+#resume li{
+   list-style-type: disc;
+   list-style-position: inside;
+}
 
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
@@ -260,6 +264,7 @@ ul#nav li.current a { color: #fe6928; }
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
+
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;

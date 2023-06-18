@@ -63,14 +63,18 @@
         "company":"Yoo's Technology",
         "title":"Supervisor",
         "years":"Jan 2023 - Present",
-        "description":"Provide technical support to customers, including PC hardware and software troubleshooting. Setup new PCs with appropriate software."
+        "description":[
+          "Provide technical support to customers, including PC hardware and software troubleshooting.",
+          "Setup new PCs with appropriate software."]
       },
       
       {
         "company":"Navigator Education Group Pty Ltd",
         "title":"ICT course advisor",
         "years":"Feb 2020 - Nov 2021",
-        "description":" Assisting students in studying ICT courses, with a focus on web development and C# programming, at UTAS. Provided guidance and support to students."
+        "description":[
+          "Assisting students in studying ICT courses, with a focus on web development and C# programming, at UTAS.",
+          "Provided guidance and support to students."]
       }
     ],
     "skills":[
