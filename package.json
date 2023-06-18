@@ -14,6 +14,7 @@
     "core-js": "^3.31.0",
     "gh-pages": "^5.0.0",
     "jquery": "^3.7.0",
+    "nth-check": "^2.1.1",
     "particles-bg": "^2.5.5",
     "react": "^18.2.0",
     "react-awesome-reveal": "^4.2.3",
@@ -49,7 +50,7 @@
     ]
   },
   "devDependencies": {
-    "chokidar": "^3.5.3",
-    "@babel/plugin-proposal-private-property-in-object":"^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "chokidar": "^3.5.3"
   }
 }
