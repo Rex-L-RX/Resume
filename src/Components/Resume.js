@@ -27,7 +27,7 @@ class Resume extends Component {
         </div>
       );
     });
-
+    
     const work = this.props.data.work.map(function (work) {
       return (
         <div key={work.company}>
