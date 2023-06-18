@@ -1,5 +1,5 @@
 # Cyberlark Resume Template
-![Status](https://github.com/CyberlarkCode/CyberlarkHome/actions/workflows/build.yml/badge.svg)
+![Status](https://github.com/Rex-L-RX/Resume/actions/workflows/build.yml/badge.svg)
 
 # Tutorial
 Online course purchase via https://course.cyberlark.com.au/courses/resume

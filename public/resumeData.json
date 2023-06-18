@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Runxiao(Rex) Liu",
-    "description":"Passionate about learning technology and sharing knowledge",
+    "description":"Passionate about learning technology",
     "image":"profile.jpg",
-    "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
+    "bio":"My name is Runxiao(Rex). I graduated from the University of Tasmania with a Master of Information Technology and Systems degree. Now I am looking for my first job in the programming field. ",
     "contactmessage":"Thank you for your feedback.",
     "email": "liurunxiao233@gmail.com",
     "phone": "0466 154382",
@@ -27,30 +27,17 @@
     "website": "http://cyberlark.com.au",
     "resumedownload":"./images/resume.pdf",
     "social":[
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/daiwei920",
-        "className":"fa fa-twitter"
-      },
+      
       {
         "name":"github",
-        "url":"https://github.com/CyberlarkCode",
+        "url":"https://github.com/Rex-L-RX",
         "className":"fa fa-github"
       },
-      {
-        "name":"youtube-chinese",
-        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
-        "className":"fa fa-youtube-square"
-      },
+      
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com",
+        "url":"https://www.linkedin.com/in/runxiao-liu-96a75a205",
         "className":"fa fa-linkedin-square"
-      },
-      {
-        "name":"toutiao",
-        "url":"https://www.ixigua.com/home/1521358670931997/",
-        "className":"fa fa-weibo"
       }
     ]
   },
@@ -58,24 +45,32 @@
     "skillmessage":"Technical Skills",
     "education":[
       {
-        "school":"University of Wollongong",
-        "degree":"Master of Computer Science with distinction",
-        "graduated":"2007 - 2009",
+        "school":"University of Tasmania",
+        "degree":"Master of Information Technology and Systems",
+        "graduated":"2019 - 2022",
         "description":""
       },
       {
-        "school":"AWS certification",
-        "degree":"AWS Certified Solutions Architect - Professional",
-        "graduated":"Dec 2021",
+        "school":"Chang'an University",
+        "degree":"Bachelor of Measuring & Control Technology and Instrumentations",
+        "graduated":"2014 - 2018",
         "description":""
       }
+      
     ],
     "work":[
       {
-        "company":"Cyberlark Studio",
-        "title":"Founder",
-        "years":"Augest 2005 - Present",
-        "description":"Our website was founded in August 2005, originally named D&M Studio. "
+        "company":"Yoo's Technology",
+        "title":"Supervisor",
+        "years":"Jan 2023 - Present",
+        "description":"Provide technical support to customers, including PC hardware and software troubleshooting. Setup new PCs with appropriate software."
+      },
+      
+      {
+        "company":"Navigator Education Group Pty Ltd",
+        "title":"ICT course advisor",
+        "years":"Feb 2020 - Nov 2021",
+        "description":" Assisting students in studying ICT courses, with a focus on web development and C# programming, at UTAS. Provided guidance and support to students."
       }
     ],
     "skills":[
