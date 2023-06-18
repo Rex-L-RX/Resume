@@ -758,7 +758,7 @@ call-to-action .button {
     margin: 0 6px;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
 }
 .flex-control-paging li a {
     width: 12px;
@@ -1014,7 +1014,9 @@ footer .social-links li:first-child { margin-left: 0; }
    padding-right: 30px; 
 }
 .social .btn i{
-   margin-right: 15px;
+   margin-right: 5px;
+   height: 24px;
+   width: 30px;
 }
 .project-btn{
    background-color: #1abc9c !important;
