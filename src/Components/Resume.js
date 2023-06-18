@@ -36,7 +36,18 @@ class Resume extends Component {
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p>{work.description}</p>
+          {
+            work.description.map(function (work_description, index){
+              return (
+              <ul key={index}>
+                <li>{work_description}</li>
+              </ul>
+              )
+          })
+            
+          }
+            
+          
         </div>
       );
     });
