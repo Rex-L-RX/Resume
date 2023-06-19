@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Runxiao(Rex) Liu",
+    "description":"Passionate about learning technology",
+    "image":"profile.jpg",
+    "bio":"My name is Runxiao(Rex). I graduated from the University of Tasmania with a Master of Information Technology and Systems degree. Now I am looking for my first job in the programming field. ",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "liurunxiao233@gmail.com",
+    "phone": "0466 154382",
+    "github":"https://github.com/Rex-L-RX",
+    "project":"https://github.com/Rex-L-RX",
+    "address":{
+      "line1":"Address: 57 Middleborough Rd, Burwood",
+      "line2":"City: Melbourne",
+      "line3":"Country: Australia"
+    },
+    "youtube":{
+      "english": {
+        "name": "David on Cloud",
+        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
+      },
+      "chinese": {
+        "name": "澳洲程序员大卫",
+        "url":"https://www.youtube.com/@aus-david"
+      }
+    },
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      
+      {
+        "name":"github",
+        "url":"https://github.com/Rex-L-RX",
+        "className":"fa fa-github"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/runxiao-liu-96a75a205",
+        "className":"fa fa-linkedin-square"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"University of Tasmania",
+        "degree":"Master of Information Technology and Systems",
+        "graduated":"2019 - 2022",
+        "description":""
+      },
+      {
+        "school":"Chang'an University",
+        "degree":"Bachelor of Measuring & Control Technology and Instrumentations",
+        "graduated":"2014 - 2018",
+        "description":""
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"Yoo's Technology",
+        "title":"Supervisor",
+        "years":"Jan 2023 - Present",
+        "description":[
+          "Provide technical support to customers, including PC hardware and software troubleshooting.",
+          "Setup new PCs with appropriate software."]
+      },
+      
+      {
+        "company":"Navigator Education Group Pty Ltd",
+        "title":"ICT course advisor",
+        "years":"Feb 2020 - Nov 2021",
+        "description":[
+          "Assisting students in studying ICT courses, with a focus on web development and C# programming, at UTAS.",
+          "Provided guidance and support to students."]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (Infrastructure, API, Database)",
+        "level":"95%"
+      },
+      {
+        "name":"Frontend Development (React, Angular)",
+        "level":"85%"
+      },
+      {
+        "name":"Embeded Software development (C/C++)",
+        "level":"80%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"75%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course",
+        "description": "如何在澳洲找IT工作",
+        "category": "Course",
+        "image":"00.png",
+        "url":"https://course.cyberlark.com.au/courses/it"
+      },
+      {
+        "title":"Project",
+        "description": "Investment Property Calculator",
+        "category": "Project",
+        "image":"04.png",
+        "url":"https://property.cyberlark.com.au/"
+      },
+      {
+        "title":"Video",
+        "description": "How to use Investment Property Calculator",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
+      },
+      {
+        "title":"Video",
+        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
+        "category":"Video",
+        "image":"02.png",
+        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
+      },
+      {
+        "title":"Video",
+        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
+        "category": "Video",
+        "image":"03.png",
+        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
+      },
+      {
+        "title":"Video",
+        "description": "如何使用澳洲房产投资计算器",
+        "category": "Video",
+        "image":"01-chinese.png",
+        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
+      }
+    ]
+  }
+}
