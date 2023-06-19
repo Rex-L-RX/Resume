@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./https://rex-l-rx.github.io/Resume/public/static/css/main.31d6cfe0.css",
-    "main.js": "./https://rex-l-rx.github.io/Resume/public/static/js/main.bd928d84.js",
-    "static/js/496.1be96556.chunk.js": "./https://rex-l-rx.github.io/Resume/public/static/js/496.1be96556.chunk.js",
-    "index.html": "./https://rex-l-rx.github.io/Resume/public/index.html",
-    "main.bd928d84.js.map": "./https://rex-l-rx.github.io/Resume/public/static/js/main.bd928d84.js.map",
-    "496.1be96556.chunk.js.map": "./https://rex-l-rx.github.io/Resume/public/static/js/496.1be96556.chunk.js.map"
+    "main.css": "./https://rex-l-rx.github.io/Resume/static/css/main.31d6cfe0.css",
+    "main.js": "./https://rex-l-rx.github.io/Resume/static/js/main.fbd26d73.js",
+    "static/js/496.1be96556.chunk.js": "./https://rex-l-rx.github.io/Resume/static/js/496.1be96556.chunk.js",
+    "index.html": "./https://rex-l-rx.github.io/Resume/index.html",
+    "main.fbd26d73.js.map": "./https://rex-l-rx.github.io/Resume/static/js/main.fbd26d73.js.map",
+    "496.1be96556.chunk.js.map": "./https://rex-l-rx.github.io/Resume/static/js/496.1be96556.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.bd928d84.js"
+    "static/js/main.fbd26d73.js"
   ]
 }
