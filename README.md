@@ -1,5 +1,6 @@
 # Cyberlark Resume Template
 ![Status](https://github.com/Rex-L-RX/Resume/actions/workflows/build.yml/badge.svg)
+Read me
 
 # Tutorial
 Online course purchase via https://course.cyberlark.com.au/courses/resume
