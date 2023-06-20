@@ -22,7 +22,7 @@ class Footer extends Component {
             <div className="twelve columns">
               <ul className="social-links">{networks}</ul>
               <ul className="copyright">
-                <li>&copy; Copyright 2022-2023 Cyberlark.com.au</li>
+                <li>&copy; Copyright 2022-2023 github.com/Rex-L-RX</li>
               </ul>
             </div>
           </Fade>
