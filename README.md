@@ -3,3 +3,4 @@
 
 This page shows my effort in programming.
 
+[Click here to my resume](https://rex-l-rx.github.io/Resume/)
