@@ -2,7 +2,7 @@
   "name": "cyberlark",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://Rex-L-Rx.github.io/Resume",
+  "homepage": ".",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emotion/react": "^11.11.1",
@@ -26,11 +26,11 @@
     "web-vitals": "^3.3.2"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
-    "predeploy": "npm run build",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d build",
-    "test": "react-scripts test",
+    "test": "react-scripts test",   
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
