@@ -1,7 +1,7 @@
 {
   "name": "cyberlark",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://Rex-L-Rx.github.io/Resume",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
