@@ -91,14 +91,14 @@
         "title":"Course Assignment of Web development",
         "description": "Developed a simple online banking website, including client-side and server-side components. Used HTML, CSS, JavaScript, jQuery, Bootstrap, MySQL, AJAX, and PHP.",
         "category": "Web development",
-        "image":"00.png",
+        "image":"onlineBank.jpg",
         "url":"https://github.com/Rex-L-RX/sample_onlineBank"
       },
       {
         "title":"C# Application Development",
         "description": "Lead a team to develop and test a researcher assessment program desktop application. Developed the application using C# with a WPF graphical front end. Used a database to store information.",
         "category": "Project",
-        "image":"04.png",
+        "image":"portfolio_wpf.jpg",
         "url":"https://github.com/Rex-L-RX/sample_WPFcourseAssignment"
       }
       
