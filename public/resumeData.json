@@ -88,47 +88,20 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Project",
-        "description": "Course Assignment of Web development",
+        "title":"Course Assignment of Web development",
+        "description": "Developed a simple online banking website, including client-side and server-side components. Used HTML, CSS, JavaScript, jQuery, Bootstrap, MySQL, AJAX, and PHP.",
         "category": "Web development",
         "image":"00.png",
         "url":"https://github.com/Rex-L-RX/sample_onlineBank"
       },
       {
-        "title":"Project",
-        "description": "Investment Property Calculator",
+        "title":"C# Application Development",
+        "description": "Lead a team to develop and test a researcher assessment program desktop application. Developed the application using C# with a WPF graphical front end. Used a database to store information.",
         "category": "Project",
         "image":"04.png",
-        "url":"https://property.cyberlark.com.au/"
-      },
-      {
-        "title":"Video",
-        "description": "How to use Investment Property Calculator",
-        "category": "Video",
-        "image":"01.png",
-        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
-      },
-      {
-        "title":"Video",
-        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
-        "category":"Video",
-        "image":"02.png",
-        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
-      },
-      {
-        "title":"Video",
-        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
-        "category": "Video",
-        "image":"03.png",
-        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
-      },
-      {
-        "title":"Video",
-        "description": "如何使用澳洲房产投资计算器",
-        "category": "Video",
-        "image":"01-chinese.png",
-        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
+        "url":"https://github.com/Rex-L-RX/sample_WPFcourseAssignment"
       }
+      
     ]
   }
 }
