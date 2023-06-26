@@ -88,11 +88,11 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Course",
-        "description": "如何在澳洲找IT工作",
-        "category": "Course",
+        "title":"Project",
+        "description": "Course Assignment of Web development",
+        "category": "Web development",
         "image":"00.png",
-        "url":"https://course.cyberlark.com.au/courses/it"
+        "url":"https://github.com/Rex-L-RX/sample_onlineBank"
       },
       {
         "title":"Project",
