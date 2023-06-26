@@ -14,18 +14,7 @@
       "line2":"City: Melbourne",
       "line3":"Country: Australia"
     },
-    "youtube":{
-      "english": {
-        "name": "David on Cloud",
-        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
-      },
-      "chinese": {
-        "name": "澳洲程序员大卫",
-        "url":"https://www.youtube.com/@aus-david"
-      }
-    },
-    "website": "http://cyberlark.com.au",
-    "resumedownload":"./images/resume.pdf",
+    "resumedownload":"./images/Runxiao_Liu_Resume.pdf",
     "social":[
       
       {
@@ -79,20 +68,16 @@
     ],
     "skills":[
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"95%"
+        "name":"Backend Development (PHP, C#, MySQL and Oracle SQL)",
+        "level":"60%"
       },
       {
         "name":"Frontend Development React",
-        "level":"85%"
+        "level":"70%"
       },
       {
-        "name":"Embeded Software development (C/C++)",
-        "level":"80%"
-      },
-      {
-        "name":"Leadership & Management",
-        "level":"75%"
+        "name":"Communication & Management",
+        "level":"70%"
       },
       {
         "name":"Passion & Eager to learn",

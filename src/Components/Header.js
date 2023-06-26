@@ -47,17 +47,6 @@ class Header extends Component {
                 Works
               </a>
             </li>
-
-            <li>
-              <a href="https://course.cyberlark.com.au/" target="_blank" rel="noreferrer">
-                Courses
-              </a>
-            </li>
-            <li>
-              <a href="http://daigou.cyberlark.com.au/" target="_blank" rel="noreferrer">
-                Shop
-              </a>
-            </li>
           </ul>
         </nav>
 
