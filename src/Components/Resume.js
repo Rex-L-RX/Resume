@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 import Slide from "react-awesome-reveal";
 
-class Resume extends Component {
-  getRandomColor() {
+function Resume (props) {
+  const getRandomColor=()=> {
     let letters = "0123456789ABCDEF";
     let color = "#";
     for (let i = 0; i < 6; i++) {
@@ -11,11 +11,11 @@ class Resume extends Component {
     return color;
   }
 
-  render() {
-    if (!this.props.data) return null;
+  
+    if (!props.data) return null;
 
-    const skillmessage = this.props.data.skillmessage;
-    const education = this.props.data.education.map(function (education) {
+    const skillmessage = props.data.skillmessage;
+    const education = props.data.education.map(function (education) {
       return (
         <div key={education.school}>
           <h3>{education.school}</h3>
@@ -28,7 +28,7 @@ class Resume extends Component {
       );
     });
     
-    const work = this.props.data.work.map(function (work) {
+    const work = props.data.work.map(function (work) {
       return (
         <div key={work.company}>
           <h3>{work.company}</h3>
@@ -46,14 +46,12 @@ class Resume extends Component {
           })
             
           }
-            
-          
         </div>
       );
     });
 
-    const skills = this.props.data.skills.map((skills) => {
-      const backgroundColor = this.getRandomColor();
+    const skills = props.data.skills.map((skills) => {
+      const backgroundColor = getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
       const width = skills.level;
 
@@ -114,7 +112,7 @@ class Resume extends Component {
         </Slide>
       </section>
     );
-  }
+  
 }
 
 export default Resume;
