@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name":"Rex Liu",
+    "description":"Passionate about learning technology",
+    "image":"profile.jpg",
+    "bio":"My name is Rex. I graduated from the University of Tasmania with a Master of Information Technology and Systems degree. Now I am looking for my first job in the programming field. ",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "liurunxiao233@gmail.com",
+    "phone": "0466 154382",
+    "github":"https://github.com/Rex-L-RX",
+    "project":"https://github.com/Rex-L-RX",
+    "address":{
+      "line1":"Address: 1 Helpmann St, Wantirna South",
+      "line2":"City: Melbourne",
+      "line3":"Country: Australia"
+    },
+    "resumedownload":"./images/Rex_Liu_Resume_Dev.pdf",
+    "social":[
+      
+      {
+        "name":"github",
+        "url":"https://github.com/Rex-L-RX",
+        "className":"fa fa-github"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/runxiao-liu-96a75a205",
+        "className":"fa fa-linkedin-square"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"University of Tasmania",
+        "degree":"Master of Information Technology and Systems",
+        "graduated":"2019 - 2022",
+        "description":""
+      },
+      {
+        "school":"Chang'an University",
+        "degree":"Bachelor of Measuring & Control Technology and Instrumentations",
+        "graduated":"2014 - 2018",
+        "description":""
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"Yoo's Technology",
+        "title":"Supervisor",
+        "years":"Jan 2023 - Present",
+        "description":[
+          "Provide technical support to customers, including PC hardware and software troubleshooting.",
+          "Setup new PCs with appropriate software."]
+      },
+      
+      {
+        "company":"Navigator Education Group Pty Ltd",
+        "title":"ICT course advisor",
+        "years":"Feb 2020 - Nov 2021",
+        "description":[
+          "Assisting students in studying ICT courses, with a focus on web development and C# programming, at UTAS.",
+          "Provided guidance and support to students."]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (PHP, C#, MySQL and Oracle SQL)",
+        "level":"60%"
+      },
+      {
+        "name":"Frontend Development React",
+        "level":"70%"
+      },
+      {
+        "name":"Communication & Management",
+        "level":"70%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course Assignment of Web development",
+        "description": "Developed a simple online banking website, including client-side and server-side components. Used HTML, CSS, JavaScript, jQuery, Bootstrap, MySQL, AJAX, and PHP.",
+        "category": "Web development",
+        "image":"onlineBank.jpg",
+        "url":"https://github.com/Rex-L-RX/sample_onlineBank"
+      },
+      {
+        "title":"C# Application Development",
+        "description": "Lead a team to develop and test a researcher assessment program desktop application. Developed the application using C# with a WPF graphical front end. Used a database to store information.",
+        "category": "Project",
+        "image":"portfolio_wpf.jpg",
+        "url":"https://github.com/Rex-L-RX/sample_WPFcourseAssignment"
+      }
+      
+    ]
+  }
+}
