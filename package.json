@@ -1,6 +1,6 @@
 {
   "name":"rex-personal-cv",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "private": true,
   "homepage": "https://rex-l-rx.github.io/Resume",
   "dependencies": {
