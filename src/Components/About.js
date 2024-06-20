@@ -1,17 +1,15 @@
-import React, { Component } from "react";
+import React from "react";
 import Fade from "react-awesome-reveal";
 
+function About(props){
+  if (!props.data) return null;
 
-class About extends Component {
-  render() {
-    if (!this.props.data) return null;
-
-    const name = this.props.data.name;
-    const profilepic = '/images/' + this.props.data.image;
-    const bio = this.props.data.bio;
-    const phone = this.props.data.phone;
-    const email = this.props.data.email;
-    const resumeDownload = this.props.data.resumedownload;
+    const name = props.data.name;
+    const profilepic = '/images/' + props.data.image;
+    const bio = props.data.bio;
+    const phone = props.data.phone;
+    const email = props.data.email;
+    const resumeDownload = props.data.resumedownload;
 
     return (
       <section id="about">
@@ -36,9 +34,9 @@ class About extends Component {
                       {name}<br />
                       Mobile: {phone}<br />
                       Email: {email}<br />
-                      {this.props.data.address.line1}<br />
-                      {this.props.data.address.line2}<br />
-                      {this.props.data.address.line3}<br />
+                      {props.data.address.line1}<br />
+                      {props.data.address.line2}<br />
+                      {props.data.address.line3}<br />
                     </span>
                   </p>
                 </div>
@@ -56,6 +54,5 @@ class About extends Component {
       </section>
     );
   }
-}
 
 export default About;

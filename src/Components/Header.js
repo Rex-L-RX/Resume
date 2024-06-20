@@ -1,15 +1,14 @@
-import React, { Component } from "react";
+import React from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-awesome-reveal";
 
-class Header extends Component {
-  render() {
-    if (!this.props.data) return null;
+function Header(props){
+  if (!props.data) return null;
 
-    const project = this.props.data.project;
-    const github = this.props.data.github;
-    const name = this.props.data.name;
-    const description = this.props.data.description;
+    const project = props.data.project;
+    const github = props.data.github;
+    const name = props.data.name;
+    const description = props.data.description;
 
     return (
       <header id="home">
@@ -83,7 +82,7 @@ class Header extends Component {
         </p>
       </header>
     );
-  }
+  
 }
 
 export default Header;
